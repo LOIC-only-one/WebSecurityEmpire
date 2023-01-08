@@ -34,6 +34,6 @@ Ce text est extrait du "Guide du voyageur galactique", H2G2, Tome 1.
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![LOIC-only-one's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOIC-only-one&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
    [![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/ffffff/00/00/00/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
